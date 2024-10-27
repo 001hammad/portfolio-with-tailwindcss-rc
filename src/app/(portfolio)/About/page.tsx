@@ -24,8 +24,8 @@ const About = () => {
         <p className="text-white text-sm md:text-lg  leading-relaxed"data-aos="fade-right"
      data-aos-offset="300"
      data-aos-easing="ease-in-sine"data-aos-duration="1000">
-          Hello, I'm Hammad Hafeez, a driven and passionate individual from
-          Karachi, Pakistan. With a keen interest in technology, I'm currently
+          Hello, I&apos;m Hammad Hafeez, a driven and passionate individual from
+          Karachi, Pakistan. With a keen interest in technology, I&apos;m currently
           pursuing my IT course from Governor House Sindh, while simultaneously
           exploring my entrepreneurial spirit.
         </p>
@@ -33,7 +33,7 @@ const About = () => {
      data-aos-anchor="#example-anchor"
      data-aos-offset="500"
      data-aos-duration="1000">
-          As a self-taught frontend developer, I've acquired expertise in HTML,
+          As a self-taught frontend developer, I&apos;ve acquired expertise in HTML,
           CSS, JavaScript, TypeScript, Next.js, and Tailwind CSS. My dedication
           and hard work have enabled me to successfully develop various projects
           that have garnered appreciation from my teachers and peers.
@@ -41,8 +41,8 @@ const About = () => {
         <p className="text-white text-sm md:text-lg leading-relaxed sm:mb-28"data-aos="fade-right"
      data-aos-offset="300"
      data-aos-easing="ease-in-sine"data-aos-duration="1000">
-          I'm eager to continue learning and expanding my skill set, staying
-          up-to-date with the latest advancements in the tech industry. I'm
+          I&apos;m eager to continue learning and expanding my skill set, staying
+          up-to-date with the latest advancements in the tech industry. I&apos;m
           excited to collaborate and contribute to innovative projects that make
           a meaningful impact.
         </p><hr className="h-24"/>

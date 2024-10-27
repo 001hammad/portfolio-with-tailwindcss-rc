@@ -41,7 +41,7 @@ const Hero = () => {
             data-aos="fade-up"
             data-aos-duration="2000"
           >
-            Hello, I'm Hammad Hafeez, a frontend developer with expertise in
+            Hello, I&apos;m Hammad Hafeez, a frontend developer with expertise in
             HTML, CSS, JavaScript, TypeScript, Next.js, and Tailwind CSS. I
             craft responsive, user-friendly websites and applications, with a
             passion for problem-solving and collaboration. Always learning, I
