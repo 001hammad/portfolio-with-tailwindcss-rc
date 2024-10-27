@@ -20,7 +20,7 @@ const Footer = () => {
       }, []);
 
   return (
-  <footer className='bg-black text-white text-sm h-full sm:h-auto p-7 sm:pt-32'>
+  <footer className='bg-black text-white text-sm h-full sm:h-auto p-7 sm:pt-32 w-auto'>
     <div className='flex justify-center'>
       <FaArrowUp size={24} onClick={ArrowClick} className='text-green-600 cursor-pointer'/>
     </div>

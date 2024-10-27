@@ -20,7 +20,7 @@ const Hero = () => {
     <main>
       {/* <h1>        SECTION  -----    1      </h1> */}
 
-      <div className="flex flex-wrap justify-center items-center">
+      <div className="flex flex-wrap justify-center items-center ">
         <div className="m-20 flex-1">
           <h1
             className="font-extrabold text-4xl"
@@ -69,8 +69,8 @@ const Hero = () => {
         </div>
         <div
           className="flex-1 hidden md:block"
-          data-aos="fade-left"
-          data-aos-duration="2000"
+          data-aos="fade-up"
+            data-aos-duration="2000"
         >
           <Image
             src={heropic}
@@ -94,15 +94,12 @@ const Hero = () => {
           </h1>
           <p
             className="max-w-72 mt-7 text-lg ml-16 sm:ml-0 tracking-wide"
-            data-aos="fade-left"
+            data-aos="fade-up"
             data-aos-duration="2000"
           >
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium
             aperiam possimus exercitationem, saepe sint quod nisi harum at,
             maiores, ut quaerat similique sunt praesentium dignissimos officia
-            {/* aspernatur quam suscipit dicta eveniet? Cum error vero magnam dicta
-          quis atque eaque neque sed eveniet, illo facilis praesentium laborum
-          est. Pariatur, veniam ipsa! */}
           </p>
           <div
             className="flex space-x-16 sm:mt-9 mt-12"
@@ -170,7 +167,7 @@ const Hero = () => {
             src={heropic1}
             alt="Front-end-dev"
             className="sm:h-full lg:h-full lg:w-full  p-5 sm:w-full rounded-s-full border-2 border-double shadow-lg shadow-yellow-500 hover:opacity-80 mix-blend-luminosity duration-500 border-green-600"
-            data-aos="fade-left"
+            data-aos="fade-up"
             data-aos-duration="2000"
           />
         </div>
