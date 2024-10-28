@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <div className='flex justify-between  items-center sm:w-full bg-[#00224D] text-white h-16  sm:h-14 md:h-20 lg:h-14 '>
       <div>
-        <Image src={logo} alt='logo' width={50} className='animate-spin duration-1000'/>
+        <Image src={logo} alt='logo' width={40} className='animate-spin duration-1000'/>
       </div>
 
       <div>
